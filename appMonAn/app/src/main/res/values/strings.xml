@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">appmonan</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hom">Home</string>
+    <string name="favo">Favorite</string>
+    <string name="search">Search</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="login">Login</string>
+</resources>
